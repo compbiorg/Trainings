@@ -6,7 +6,7 @@ We are conducting internal training for members who have just joined the Center 
 
 The training schedule is as follows: Friday July 3rd 11am to 12pm: Introduction to R programming; Friday July 10th 11am to 12pm: Statistics primer; Friday July 17th 11am to 12pm: Introduction to epidemic modeling; Friday July 24rd 11am to 12pm: Introduction to molecular biology; Friday 31st July 11am to 12pm: Navigating and making use of scientific literature; Friday 3rd August 11am to 12pm: Grant writing 101; Friday 10th August 11am to 12pm: Introduction to Unix.
 
-# Recommend extrenal training
+# Recommended external training
 We highly recommend the free online introduction to Bioinformatics training offered by the Sanger Institute and their partners:
 https://training.bactgen.sanger.ac.uk/?utm_source=twitter&utm_campaign=training#/
 
